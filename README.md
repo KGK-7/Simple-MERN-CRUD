@@ -76,19 +76,3 @@ It re-creates a folder named *public* on the root directory. This is where the p
 ```bash
 docker-compose up
 ```
-
-## Contribute
-Feel free to help out as I may have other work/life commitments. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## To Do
-
-- [x] Create
-- [x] Read
-- [x] Update
-- [x] Delete
-- [x] Real-time broadcast using Socket.io
-- [x] Deploy in Heroku
-- [x] Front-end validation (HTML)
-
-## License
-**MERN CRUD** is available under the **MIT** license. See the [LICENSE](LICENSE) file for more info.
